@@ -1,2 +1,2 @@
 # Day0
-how to use github and git.
+Now, we know what is git and github
