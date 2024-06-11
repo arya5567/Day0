@@ -1,0 +1,63 @@
+JavaScript Codes For Practise
+
+Reverse a String
+
+1. Write a function to reverse a given string.
+javascript
+
+Factorialize a Number
+
+2. Write a function that returns the factorial of a given number.
+javascript
+
+Check for Palindromes
+
+3. Write a function to check if a given string is a palindrome.
+javascript
+
+Intermediate Algorithm Questions
+4. the Longest Word in a String
+
+5. Write a function to find the longest word in a given string.
+javascript
+
+Title Case a Sentence
+6.Write a function to capitalize the first letter of each word in a given string.
+javascript
+
+Sum All Numbers in a Range
+
+7.Write a function to sum all numbers in a given range.
+javascript
+
+Advanced Algorithm Questions
+Smallest Common Multiple
+
+8.Write a function to find the smallest common multiple of a range of numbers.
+javascript
+
+
+Find the Symmetric Difference
+
+9.Write a function to find the symmetric difference between multiple arrays.
+javascript
+
+Implement the Sieve of Eratosthenes
+
+10.Write a function to generate all prime numbers up to a given number.
+javascript
+
+Challenge Algorithm Questions
+Flatten a Nested Array
+
+11. Write a function to flatten a nested array.
+javascript
+
+
+12. Implement a Binary Search Algorithm
+Write a function to perform binary search on a sorted array.
+
+
+Merge Sort Algorithm
+13.Write a function to perform merge sort on an array.
+javascript
