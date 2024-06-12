@@ -1,1 +1,26 @@
+str="thats the only way to solve the problem  ";
+let currword="";
+let larword="";
+let larwordlen="";
 
+for(i=0;i<str.length;i++){
+    const char=str[i];
+
+if(char!==" "){
+    currword+=char;
+}
+else {
+    if(currword.length>larword.length){
+    larword=currword;
+    larwordlen=currword.length;
+}
+currword="";
+}
+
+if(currword.length>larwordlen){
+    larword=currword;
+}
+
+}
+
+console.log(larword);
